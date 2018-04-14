@@ -3,3 +3,4 @@
 - Lemur
 - Racoon
 - Raccoon dog
+- Red panda

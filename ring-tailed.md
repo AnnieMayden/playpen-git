@@ -4,3 +4,4 @@
 - Racoon
 - Raccoon dog
 - Red panda
+- Ring-tailed cat

@@ -7,6 +7,7 @@
 1. Axiotl 
 1. Japanese dwarf flying squirrel
 1. Tardigrade (Water bear)
+1. Corgi
 1. River otter
 1. ...
 
